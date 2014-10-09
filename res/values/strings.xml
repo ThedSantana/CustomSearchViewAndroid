@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CustomSearchViewAndroid</string>
+    
+    <color name="background">#CCCCCC</color>
+    <color name="hint">#003300</color>
+    <color name="text">#000000</color>
+    <color name="undrline">#006600</color>
+
+</resources>
